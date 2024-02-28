@@ -134,7 +134,10 @@ Then i tried it with Base64 Encode to get infomation.
 ```
 </details>
 
-It was a blank text, but I recognized it from a previous CTF challenge. In that challenge, the clear text had been transformed into whitespace and tab characters, which was intended to confuse the player. So i just decode that blank text to get hidden text behind it.
+It was a blank text, but I recognized it from a previous CTF challenge that I have played. In that challenge, the clear text had been transformed into whitespace and tab characters, which was intended to confuse the player. If you use IDE like VSCode, you will see these characters more clearly.
+![alt text](./img/img14.png)
+
+So i just decode that blank text to get hidden text behind it.
 
 ![alt text](./img/img13.png)
 
@@ -144,6 +147,6 @@ Yeah, i finally got the flag.
 <summary>The flag</summary>
 
 ```
-SBT{Y0U_AR3_4_N3rd!}
+Try it yourself
 ```
 </details>

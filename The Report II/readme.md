@@ -57,7 +57,8 @@ OODA Loop
 </details>
 
 ### Q4. What is the name of the suggested organisational model if the constituency size is between 1000 to 10,000 employees (Format: Organisational Model Name)
-From figure 6 on page 55, it describe the constituency size of each SOC Model.
+From figure 6 on page 55, it describe the constituency size of each SOC Model:
+
 ![alt text](./imgs/img1.png)
 
 <details>
@@ -84,7 +85,7 @@ SOC lead
 </details>
 
 ### Q6. In Coordinating & National SOCs model what are the 2 functions mentioned as Optional Capability under Expanded SOC Operations Category? (Format: Function1, Function2)
-Table 4 on page 74, it describes capability template
+Table 4 on page 74, it describes capability template:
 
 ![alt text](./imgs/img2.png)
 
@@ -126,6 +127,7 @@ Follow the Sun
 
 ### Q9. Submit the priorities(Low, Medium, High) assigned to Phishing, Insider Threat and Pre-incident Port Scanning activities respectively as per the Incident Prioritization mentioned in the document (Format: Priority1, Priority2, Priority3)
 From page 129:
+
 ![alt text](./imgs/img3.png)
 
 <details>
@@ -178,6 +180,7 @@ PCAP
 
 ### Q13. In order to support forensics, what is the recommended data retention period (in months) to store logged EDR data? (Format: # of Months)
 From table 15 on page 191:
+
 ![alt text](./imgs/img4.png)
 
 <details>
@@ -190,6 +193,7 @@ From table 15 on page 191:
 
 ### Q14. According to the threat intelligence concept the 'Pyramid of Pain', what indicators are Trivial, Easy, Challenging, Tough for adversaries to change? (Format: Indicator1, Indicator2, Indicator3, Indicator4) 
 From figure 40 on page 333:
+
 ![alt text](./imgs/img5.png)
 
 <details>
